@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - This program uses printf
- * Description - This program prints various sizes the computer is compiled on
+ * Description - This program prints variou
+ * s sizes the computer is compiled on
  * REturn: 0 (successful)
  */
 
