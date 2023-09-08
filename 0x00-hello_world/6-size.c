@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main - This program uses printf
- * Description - This program prints variou
- * s sizes the computer is compiled on
- * REturn: 0 (successful)
+ * Description - This program prints the various sizes
+ * the computer is compiled on\
+ * Return: (0) (successful)
  */
 
 int main(void)
