@@ -10,7 +10,7 @@ int main(void)
 {
 	int nunu;
 
-	for (nunu = '1'; nunu <= '9'; nunu++)
+	for (nunu = '0'; nunu <= '9'; nunu++)
 	{
 		putchar(nunu);
 			if (nunu <= '8')
