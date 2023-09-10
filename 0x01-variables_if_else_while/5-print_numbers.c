@@ -8,11 +8,12 @@
 
 int main(void)
 {
-	int baseten;
+	char baseten;
 
-	for (baseten = 0; baseten <= 9; baseten++)
+	for (baseten = '0'; baseten <= '9'; baseten++)
 	{
-		printf("%d", baseten);
+		putchar(baseten);
 	}
+	putchar('\n');
 	return (0);
 }
