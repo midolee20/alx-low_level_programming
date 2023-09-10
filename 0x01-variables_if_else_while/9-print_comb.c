@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	char nunu;
+	int nunu;
 
 	for (nunu = '1'; nunu <= '9'; nunu++)
 	{
