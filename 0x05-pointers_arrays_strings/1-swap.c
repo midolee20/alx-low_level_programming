@@ -2,8 +2,9 @@
 
 /**
  * swap_int - program that swaps integers
- * @*a: a pointer
- * @*b: another pointer
+ * @a: a pointer
+ * @b: another pointer
+ * Return: 0
  */
 
 void swap_int(int *a, int *b)
