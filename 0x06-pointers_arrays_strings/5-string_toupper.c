@@ -4,7 +4,7 @@
  * string_toupper - turn lowercase to uppercase
  * @s: pointer
  *
- *  @s: pointer
+ * Return: what is needed
  */
 
 char *string_toupper(char *s)
