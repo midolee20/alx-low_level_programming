@@ -38,6 +38,7 @@ int _sqrt_recursion(int n)
 
 	sqrt = n / 2;
 	res = 0;
+
 	if (n == 1)
 		return (1);
 	if (n < 0)
