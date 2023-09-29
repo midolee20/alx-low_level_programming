@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sqrt_recursion2 - fills memory with a constant byte
+ * _sqrt_recursion2 - fills memory with a constant byte
  * @n: first bytes of the memory nmm
  * @sqrt: first bytes of the memory bbgb
  * @res: first bytes of the memory vvvf
