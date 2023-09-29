@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * sqrt_recursion2 - fills memory with a constant byte.
+ * sqrt_recursion2 - fills memory with a constant byte
  * @n: first bytes of the memory nmm
  * @sqrt: first bytes of the memory bbgb
  * @res: first bytes of the memory vvvf
@@ -25,6 +25,7 @@ float _sqrt_recursion2(int n, float sqrt, float res)
 	sqrt = (n / res + res) / 2;
 	return (_sqrt_recursion2(n, sqrt, res));
 }
+
 /**
  * _sqrt_recursion - fills memory with a constant byte.
  * @n: first bytes of the memory
