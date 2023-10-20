@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * add_node_end - adds a new node 
+ * add_node_end - adds a new node
  * @head: head of the linked lists in
  * @str: string to store in the lists
  * Return: address of the head.
